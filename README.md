@@ -16,7 +16,7 @@ OBFUSCATED_CODE_ANALYSIS
 
 # Reference
 
-THE IDAPRO BOOK
-https://www.hex-rays.com/products/ida/debugger/scriptable.shtml
-https://www.hex-rays.com/products/ida/support/idadoc/162.shtml
+- THE IDAPRO BOOK
+- https://www.hex-rays.com/products/ida/debugger/scriptable.shtml
+- https://www.hex-rays.com/products/ida/support/idadoc/162.shtml
 
