@@ -3,9 +3,9 @@
 IDC 4 for Android ELF file is different from what we used for windows PE file. For example, GetEntryPointQty() described in Enumerating Exported Functions section of THE IDAPRO BOOK will retrive nothing for an ELF file.
 
 
-We write these script to verify the useful of these examples and give the alternative scheme if dose not.
+We write these script to verify the useful of these examples and give the alternative scheme if it dose not.
 
-BTW, I show some examples when dealing with obfuscator of android.
+BTW, We show some examples when confronting with obfuscator of android.
 
 
 #Details
