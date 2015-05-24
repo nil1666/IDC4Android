@@ -12,8 +12,6 @@ BTW, I show some examples when dealing with obfuscator of android.
 OBFUSCATED_CODE_ANALYSIS
   - Dynamic_Analysis
     - Hiding_Debugger.idc 
-    - JNINativeInterface.idc
-    - jni.h	
 
 
 # Reference
