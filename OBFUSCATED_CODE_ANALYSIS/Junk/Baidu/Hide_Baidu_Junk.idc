@@ -1,9 +1,5 @@
 //PoC for:
-<<<<<<< HEAD
 //hide junk code for baidu
-=======
-//hide junk code
->>>>>>> 3341a1a1ba16b6d07802e53ca067a259e3573d02
 
 
 #include <idc.idc>
@@ -76,8 +72,4 @@ static main(void)
 	}
 	
 	Message("%d area collapsed\n", hit_counter);
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 3341a1a1ba16b6d07802e53ca067a259e3573d02
